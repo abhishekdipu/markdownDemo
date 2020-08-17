@@ -55,9 +55,10 @@ _This text_ is italic
 
 <!-- Links -->
 
-[Abhishek Kumar](htts://www.abhishekdipu.tech/)
+[Abhishek Kumar](https://www.abhishekdipu.tech/)
+[I'm an inline-style link](https://www.google.com)
 
-[Abhishek Kumar](htts://www.abhishekdipu.tech/ "description of link")
+[Abhishek Kumar](https://www.abhishekdipu.tech/ "description of link")
 
 <!---------------- Lists-------- -->
 <!-- UL(Un-ordered lists) -->
